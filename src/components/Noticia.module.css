@@ -1,0 +1,7 @@
+.card-titulo {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+p.card-descripcion {
+  margin-bottom: 20px !important;
+}
